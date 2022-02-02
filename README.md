@@ -1,6 +1,7 @@
 # GreenRangers
 
-# Using E-Commerce transactional data, can we determine if a credit card transaction is fraudelant or not.
+# Do fraudulent charges increase the more times a stolen credit card is used?
 
-Datasets used
+SMOTE dataset
+K-means clustering
 
